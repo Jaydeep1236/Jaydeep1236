@@ -2,8 +2,8 @@
 
 ### 💻 B.Tech Information Technology Student | Full-Stack Developer
 
-💻 Full-stack developer working with **React.js, Next.js, TypeScript, Node.js,
-Express.js, PostgreSQL & MongoDB**.
+💻 Building full-stack applications with **React.js, Next.js, TypeScript,
+Node.js, Express.js, PostgreSQL & MongoDB**.
 
 🤖 Exploring **AI/LLMs and Computer Vision**, with a focus on applying
 intelligent technologies to practical software solutions.
