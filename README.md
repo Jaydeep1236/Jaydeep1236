@@ -5,7 +5,7 @@
 💻 Experienced with **React.js, Next.js, TypeScript, Node.js,
 Express.js, PostgreSQL & MongoDB**.
 
-🤖 Exploring **AI/LLMs, Computer Vision
+🤖 Exploring **AI/LLMs, Computer Vision**
 
 🧠 Interested in building practical, scalable and
 user-focused web applications.
@@ -19,6 +19,11 @@ modern software technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaydeep1236)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeep-biswas-99b8332a6)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswasjaydeep51@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crazy_jay789/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jaydeep8454582)
+
+**Discord:** `jaydeep4635`
 
 ---
 
@@ -54,8 +59,6 @@ modern software technologies.
 🏅 **Smart India Hackathon 2025** — Rank 7 (Waitlisted)
 
 🏆 **PEC Hacks 3.0** — Finalist, selected among 1500+ teams
-
-💡 **Smart Bengal Hackathon 2025** — Participant
 
 ---
 
